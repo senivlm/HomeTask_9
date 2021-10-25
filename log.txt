@@ -1,0 +1,52 @@
+﻿
+Spoiled Products:
+
+
+
+Meat
+
+Name: MuttonVip  
+Weight: 700g 
+Price: 230 UAH
+Exparation date: 10
+Date of manufacture: 22.09.2021
+Category: HighSort
+Kind: Mutton
+
+
+Dairy Product
+
+Name: Milk  
+Weight: 2200g 
+Price: 42 UAH
+Exparation date: 22
+Date of manufacture: 22.11.2020
+
+
+Name: Lemon  
+Weight: 220g 
+Price: 12 UAH
+Exparation date: 5
+Date of manufacture: 03.10.2021
+
+
+
+Meat
+
+Name: Chicken  
+Weight: 500g 
+Price: 100 UAH
+Exparation date: 22
+Date of manufacture: 29.09.2021
+Category: FirstSort
+Kind: Chicken
+
+
+Dairy Product
+
+Name: Butter  
+Weight: 220g 
+Price: 50 UAH
+Exparation date: 20
+Date of manufacture: 01.10.2021
+

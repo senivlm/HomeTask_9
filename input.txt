@@ -1,0 +1,6 @@
+﻿Product Apple 1000 22 15 24.10.2021
+Meat MuttonVip 700 230 10 22.09.2021 High Mutton
+Dairy Milk 2200 42 22 22.11.2020
+Product Lemon 220 12 5 03.10.2021
+Meat Chicken 500 100 22 29.09.2021 First Chicken
+Dairy Butter 220 50 20 01.10.2021
