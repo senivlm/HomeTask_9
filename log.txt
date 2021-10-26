@@ -1,4 +1,9 @@
 ﻿
+
+Time adding product: 26.10.2021 21:24:51
+Wrong input in line:
+ Apple 100d0 22 15 24.10.2021Wrong weight
+
 Spoiled Products:
 
 
@@ -49,4 +54,7 @@ Weight: 220g
 Price: 50 UAH
 Exparation date: 20
 Date of manufacture: 01.10.2021
+
+
+Spoiled Products:
 
