@@ -152,7 +152,7 @@ namespace HomeTask_8_2
             DateTime dateOfManifecture;
             Category category = 0;
             Kind kind = 0;
-
+//Можна обмежувати кількість спроб
             while (true)
             {
                 Console.WriteLine("Enter new price: ");
@@ -230,7 +230,7 @@ namespace HomeTask_8_2
 
             storage.AddMeat(newName, price, weight, expirationDate, dateOfManifecture, category, kind);
         }
-
+// для того, щоб методу передавати список продуктів, його треба розінкапсулювати з екземпляру класу. Тому ,краще в обробнику мати екземпляр Storagе, а в ньому передбачити метод вилучення.
         static public void RemoveSpoiledProducts(List<Product> products, string path)
         {
             List<Product> spoiledProducts = new List<Product>();
